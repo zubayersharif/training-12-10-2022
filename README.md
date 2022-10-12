@@ -25,4 +25,4 @@
 </html>
 ~~~
 
-<img width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfHyew53LYpNaxFS4xZuRuBy2FHQxF-ojRg&usqp=CAU">
+<img height="300" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfHyew53LYpNaxFS4xZuRuBy2FHQxF-ojRg&usqp=CAU">
