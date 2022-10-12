@@ -1,5 +1,7 @@
 # training-12-10-2022-Day-2
 # github file share
+# I am a Web developer
+### My skills in C, C++, Fortran, Dbase 3+,<br>Foxpro, Oracle, Java, Python, HTML, CSS,<br>Bootstrap, Javascript, PHP, WordPress etc.
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcldUPr7CccAq0zxBknWkXDJRKx3mLE9WtPOqhsaGlKw&s"> 
 
 
@@ -25,4 +27,4 @@
 </html>
 ~~~
 
-<img height="300" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfHyew53LYpNaxFS4xZuRuBy2FHQxF-ojRg&usqp=CAU">
+<img align="center" height="300" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
